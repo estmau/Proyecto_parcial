@@ -1,0 +1,120 @@
+
+<html>
+	<head>
+		<title>Snapshot by TEMPLATED</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body>
+		<div class="page-wrap">
+
+			<!-- Nav -->
+				<nav id="nav">
+					<ul>
+						<li><a href="index.html" class="active"><span class="icon fa-home"></span></a></li>
+						<li><a href="buscar.html"><span class="icon fa-camera-retro"></span></a></li>
+						<li><a href="modificar.html"><span class="icon fa-file-text-o"></span></a></li>
+					</ul>
+				</nav>
+
+			<!-- Main -->
+				<section id="main">
+
+					<!-- Banner -->
+						<section id="banner">
+							<div class="inner">
+								<ul class="actions">
+									</ul>
+							</div>
+						</section>
+
+					<!-- Gallery -->
+						<section id="galleries">
+
+							<!-- Photo Galleries -->
+								<div class="gallery">
+									<header class="special">
+										<h2>Pinchos de Metro</h2>
+										</Header>
+										<div class="content">
+											<div class="media">
+												<img src="images/thumbs/01.jpg" alt="" /></a>
+												</div>
+												<div class="media">
+													<img src="images/thumbs/02.jpg" alt="" /></a>
+												</div>
+												<div class="media">
+													<img src="images/thumbs/03.jpg" alt="" /></a>
+												</div>
+												<div class="media">
+													<img src="images/thumbs/04.jpg" alt="" /></a>
+												</div>
+											</section>
+									</header>
+														<!-- Contact -->
+
+						<section id="contact">
+							<!-- Social -->
+								<div class="social column">
+									<h3>Información</h3>
+									<p> Un metro de puro sabor...!!! Simplemente tu mejor OPCION en Pinchos</p>
+									<p> Somos la marca mas innovadora en el mercado ecuatoriano y muy pronto estaremos en varias ciudades del país, con nuestra campaña de franquicias a nivel nacional . Para mayor información  ingresa <a href="https://djpewe.wixsite.com/pinchosdemetro">https://djpewe.wixsite.com/pinchosdemetro</a>
+									<h4> Dirección</h4>
+									<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.108231804733!2d-78.6501194862511!3d-1.6775327366487705!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d3a82dc93b5429%3A0x7fc9ef189ffaaf96!2sGaspar+de+Villarroel+%26+Alvarado%2C+Riobamba!5e0!3m2!1ses!2sec!4v1548551725542" width="400" height="200" frameborder="0" style="border:0" allowfullscreen></iframe><br>
+									<br><p><span class="icon fa-map-marker"></span> Villaroel y Alvarado Riobamba</p>
+									<p> <span class="icon fa-phone "></span></li> 099 901 2623</p>
+									<p><span class="icon fa-clock-o "></span> Hora: 18:00 - 22:30</p>
+								</div>
+
+							<!-- Form -->
+
+									<div class="column">
+									<br><br><h3>Calificaciones y Comentarios</h3>
+									<form action="#" method="post">
+										<div class="field half first">
+											<label for="name">Calificación</label>
+											<ul class="form">
+												<form>
+												 <div class="ec-stars-wrapper">
+												 	<a href="#" data-value="1" title="Votar con 1 estrellas">&#9733;</a>
+												 	<a href="#" data-value="2" title="Votar con 2 estrellas">&#9733;</a>
+												 	<a href="#" data-value="3" title="Votar con 3 estrellas">&#9733;</a>
+												 	<a href="#" data-value="4" title="Votar con 4 estrellas">&#9733;</a>
+												 	<a href="#" data-value="5" title="Votar con 5 estrellas">&#9733;</a>
+												 </div>
+
+										</div>
+										<div class="field">
+											<label for="message">Comentario</label>
+											<textarea name="message" id="message" rows="6" placeholder="Message"></textarea>
+										</div>
+										<ul class="actions">
+											<li><input value="Enviar" class="button" type="submit"></li>
+										</ul>
+									</form>
+								</div>
+						</section>
+
+					<!-- Footer -->
+					<section id="Footer">
+					<h3>Follow Me</h3>
+					<ul class="icons">
+						<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+						<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+						<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+					</ul>
+				</section>
+				</section>
+		</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.poptrox.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
