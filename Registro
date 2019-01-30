@@ -1,0 +1,42 @@
+<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="css/reg.css">
+<div class="testbox">
+  <h1>REGISTRARSE</h1>
+
+  <form action="agregar.php" method="post">
+
+      <hr>
+    <!--
+      <div class="accounttype">
+      <input type="radio" value="None" id="radioOne" name="account" checked/>
+      <label for="radioOne" class="radio" chec>Cliente</label>
+      <input type="radio" value="None" id="radioTwo" name="account" />
+      <label for="radioTwo" class="radio">Usuario</label>
+    </div>
+    -->
+  <hr>
+  <label id="icon" for="name"><i class="icon-cedula"></i></label>
+  <input type="text" name="cedula" id="name" placeholder="Cedula" required/>
+  <label id="icon" for="name"><i class="icon-nombre"></i></label>
+  <input type="text" name="nombre" id="name" placeholder="Nombre" required/>
+  <label id="icon" for="name"><i class="icon-apellido"></i></label>
+  <input type="text" name="apellido" id="name" placeholder="Apellido" required/>
+  <label id="icon" for="name"><i class="icon-telefono"></i></label>
+  <input type="text" name="telefono" id="name" placeholder="Telefono" required/>
+  <label id="icon" for="name"><i class="icon-edad"></i></label>
+  <input type="text" name="edad" id="name" placeholder="Edad" required/>
+  <label id="icon" for="name"><i class="icon-email"></i></label>
+  <input type="text" name="email" id="name" placeholder="Email" required/>
+  <label id="icon" for="name"><i class="icon-shield"></i></label>
+  <input type="password" name="contrasenia" id="name" placeholder="Contrasenia" required/>
+
+  <div class="gender">
+    <input type="radio" value="None" id="male" name="genero" checked/>
+    <label for="male" class="radio" chec>Hombre</label>
+    <input type="radio" value="None" id="female" name="genero" />
+    <label for="female" class="radio">Mujer</label>
+   </div>
+  <a href="#" class="button">Cancelar</a>
+   <a href="#" class="button">Registrar</a>
+  </form>
+</div>
